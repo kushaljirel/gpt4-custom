@@ -1,0 +1,22 @@
+.gpt4__brand {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 2rem 0 0;
+
+    width: 100%;
+}
+
+.gpt4__brand div {
+    width: 150px;
+    height: 48px;
+
+}
+
+/* .gpt4__brand img {
+    width: 100%;
+    height: 100%;
+} */
+
+
